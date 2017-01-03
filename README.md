@@ -1,0 +1,2 @@
+# Pluralsight
+Projects for training
