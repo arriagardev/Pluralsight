@@ -1,0 +1,6 @@
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\bin\Debug\Translator.Domain.dll.config
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\bin\Debug\Translator.Domain.dll
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\bin\Debug\Translator.Domain.pdb
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\obj\Debug\Translator.Domain.csprojResolveAssemblyReference.cache
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\obj\Debug\Translator.Domain.dll
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m5\cs\dev\Translator\Translator.Domain\obj\Debug\Translator.Domain.pdb

@@ -1,0 +1,7 @@
+C:\Users\gdljarri\AppData\Local\Temporary Projects\Generics\bin\Debug\Generics.exe.config
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\gdljarri\Box Sync\Pluralsight\C# for VB\Generics\Generics\obj\Debug\Generics.pdb

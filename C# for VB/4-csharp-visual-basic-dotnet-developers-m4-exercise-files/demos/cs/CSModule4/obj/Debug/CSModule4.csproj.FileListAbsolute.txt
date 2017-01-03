@@ -1,0 +1,7 @@
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\CSModule4\bin\Debug\CSModule4.exe.config
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\bin\Debug\CSModule4.exe.config
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\bin\Debug\CSModule4.exe
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\bin\Debug\CSModule4.pdb
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\obj\Debug\CSModule4.csprojResolveAssemblyReference.cache
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\obj\Debug\CSModule4.exe
+C:\Users\craig\Documents\Authoring\CSharp for VBNET Developers\src\m4\cs\demo\CSModule4\obj\Debug\CSModule4.pdb
