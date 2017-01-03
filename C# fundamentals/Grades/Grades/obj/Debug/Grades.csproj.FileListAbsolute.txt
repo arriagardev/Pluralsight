@@ -1,0 +1,2 @@
+C:\Users\gdljarri\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe.config
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
