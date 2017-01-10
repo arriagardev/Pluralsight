@@ -27,8 +27,63 @@ namespace Grades
             }
 
             avg = avg / grades.Count;
-            avggrade = avg;        
-            
+            avggrade = avg;                    
+        }
+
+        public string LetterGrade
+        {
+            get
+            {
+                string result;
+                if (avggrade >= 90)
+                {
+                    result = "A";
+                }
+                else if (avggrade >= 80)
+                {
+                    result = "B";
+                }
+                else if (avggrade >= 70)
+                {
+                    result = "C";
+                }
+                else if (avggrade >= 60)
+                {
+                    result = "D";
+                }
+                else
+                {
+                    result = "F";
+                }
+                return result;
+            }
+        }
+
+        public string GradeDescription
+        {
+            get
+            {
+                string result;
+                switch (LetterGrade)
+                {
+                    case "A":
+                        result = "Excellent";
+                        break;
+                    case "B":
+                        result = "Good";
+                        break;
+                    case "C":
+                        result = "Average";
+                        break;
+                    case "D":
+                        result = "Below Average";
+                        break;
+                    default:
+                        result = "Failing";
+                        break;
+                }
+                return result;
+            }
         }
     }
 }

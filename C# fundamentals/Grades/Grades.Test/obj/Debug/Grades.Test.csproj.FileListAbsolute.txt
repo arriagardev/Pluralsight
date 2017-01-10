@@ -1,0 +1,8 @@
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\bin\Debug\Grades.Test.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\bin\Debug\Grades.Test.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\obj\Debug\Grades.Test.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\bin\Debug\Grades.exe
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades.Test\bin\Debug\Grades.pdb

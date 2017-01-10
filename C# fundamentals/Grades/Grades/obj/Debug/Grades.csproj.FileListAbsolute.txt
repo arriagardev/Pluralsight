@@ -1,7 +1,7 @@
 C:\Users\gdljarri\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe.config
-C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
-C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.exe
 C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.pdb
 C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
-C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# fundamentals\Grades\Grades\obj\Debug\Grades.exe
