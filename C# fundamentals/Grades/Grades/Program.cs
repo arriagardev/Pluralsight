@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Speech.Synthesis;
 
 namespace Grades
 {
@@ -8,17 +9,17 @@ namespace Grades
         static void Main(string[] args)
         {
 
-            //SpeechSynthesizer synth = new SpeechSynthesizer();
-            //synth.Speak("Hello, this is the GradeBook Program");
+            SpeechSynthesizer synth = new SpeechSynthesizer();            
+            synth.Speak("Hello, this is the GradeBook Program");
 
-            Gradebook book = new Gradebook();
-            GetBookName(book);
+            IGradeTracker book = new ThrowAwayGradebook();
+            //GetBookName(book);
             AddGrades(book);
             SaveGrades(book);
             WriteResults(book);
         }
 
-        private static void WriteResults(Gradebook book)
+        private static void WriteResults(IGradeTracker book)
         {
             Gradestatistics stats = book.ComputeStatistics();
             Console.WriteLine(book.Name);
@@ -31,7 +32,7 @@ namespace Grades
             WriteValue(stats.GradeDescription, stats.LetterGrade);
         }
 
-        private static void SaveGrades(Gradebook book)
+        private static void SaveGrades(IGradeTracker book)
         {
             using (StreamWriter outputfile = File.CreateText("grades.txt"))
             {
@@ -39,7 +40,7 @@ namespace Grades
             }
         }
 
-        private static void AddGrades(Gradebook book)
+        private static void AddGrades(IGradeTracker book)
         {
             book.AddGrade(90);
             book.AddGrade(78.5f);
@@ -47,7 +48,7 @@ namespace Grades
             book.AddGrade(99);
         }
 
-        private static void GetBookName(Gradebook book)
+        private static void GetBookName(IGradeTracker book)
         {
             try
             {
