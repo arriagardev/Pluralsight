@@ -1,0 +1,9 @@
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\Person.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\Person.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\obj\Debug\Person.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\obj\Debug\Person.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\MahApps.Metro.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\MahApps.Metro.pdb
+C:\Users\gdljarri\Source\Repos\Pluralsight\C# Interfaces\CSInterfacesMod2\Person\bin\Debug\MahApps.Metro.xml
